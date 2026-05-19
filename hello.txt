@@ -1,1 +1,2 @@
 Hello world, I'm coding.
+add tất cả : git add .
