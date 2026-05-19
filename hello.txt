@@ -1,2 +1,3 @@
 Hello world, I'm coding.
 add tất cả : git add .
+git init và git add chỉ dùng 1 lần khi nào mà tạo dự án
